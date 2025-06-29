@@ -35,7 +35,7 @@ echo Repository 1:
 set /p "REPO1_NAME=Enter name (folder) [default: exercise]: "
 if "%REPO1_NAME%"=="" set "REPO1_NAME=exercise"
 set /p "REPO1_URL=Enter URL [default: artemis exercise]: "
-if "%REPO1_URL%"=="" set "REPO1_URL=https://nauendorf@artemis.it.hs-heilbronn.de/git/WNCKTC1TESTAUFGABEJAVA/wncktc1testaufgabejava-exercise.git"
+if "%REPO1_URL%"=="" set "REPO1_URL=https://nutzer@artemis.it.hs-heilbronn.de/git/WNCKTC1TESTAUFGABEJAVA/wncktc1testaufgabejava-exercise.git"
 
 echo.
 REM Get Repository 2
@@ -43,7 +43,7 @@ echo Repository 2:
 set /p "REPO2_NAME=Enter name (folder) [default: solution]: "
 if "%REPO2_NAME%"=="" set "REPO2_NAME=solution"
 set /p "REPO2_URL=Enter URL [default: artemis solution]: "
-if "%REPO2_URL%"=="" set "REPO2_URL=https://nauendorf@artemis.it.hs-heilbronn.de/git/WNCKTC1TESTAUFGABEJAVA/wncktc1testaufgabejava-solution.git"
+if "%REPO2_URL%"=="" set "REPO2_URL=https://nutzer@artemis.it.hs-heilbronn.de/git/WNCKTC1TESTAUFGABEJAVA/wncktc1testaufgabejava-solution.git"
 
 echo.
 REM Get Repository 3
@@ -51,7 +51,7 @@ echo Repository 3:
 set /p "REPO3_NAME=Enter name (folder) [default: tests]: "
 if "%REPO3_NAME%"=="" set "REPO3_NAME=tests"
 set /p "REPO3_URL=Enter URL [default: artemis tests]: "
-if "%REPO3_URL%"=="" set "REPO3_URL=https://nauendorf@artemis.it.hs-heilbronn.de/git/WNCKTC1TESTAUFGABEJAVA/wncktc1testaufgabejava-tests.git"
+if "%REPO3_URL%"=="" set "REPO3_URL=https://nutzer@artemis.it.hs-heilbronn.de/git/WNCKTC1TESTAUFGABEJAVA/wncktc1testaufgabejava-tests.git"
 
 echo.
 echo [*] Configuration Summary:
