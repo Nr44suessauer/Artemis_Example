@@ -15,15 +15,15 @@ from pathlib import Path
 # Configuration - Default Artemis Repositories for WNCKTC1TESTAUFGABEJAVA
 DEFAULT_REPOSITORIES = [
     {
-        "url": "https://nauendorf@artemis.it.hs-heilbronn.de/git/WNCKTC1TESTAUFGABEJAVA/wncktc1testaufgabejava-exercise.git",
+        "url": "https://nutzerf@artemis.it.hs-heilbronn.de/git/WNCKTC1TESTAUFGABEJAVA/wncktc1testaufgabejava-exercise.git",
         "name": "exercise"
     },
     {
-        "url": "https://nauendorf@artemis.it.hs-heilbronn.de/git/WNCKTC1TESTAUFGABEJAVA/wncktc1testaufgabejava-solution.git", 
+        "url": "https://nutzer@artemis.it.hs-heilbronn.de/git/WNCKTC1TESTAUFGABEJAVA/wncktc1testaufgabejava-solution.git", 
         "name": "solution"
     },
     {
-        "url": "https://nauendorf@artemis.it.hs-heilbronn.de/git/WNCKTC1TESTAUFGABEJAVA/wncktc1testaufgabejava-tests.git",
+        "url": "https://nutzer@artemis.it.hs-heilbronn.de/git/WNCKTC1TESTAUFGABEJAVA/wncktc1testaufgabejava-tests.git",
         "name": "tests"
     }
 ]
